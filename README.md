@@ -9,3 +9,8 @@ The topic of my Master's thesis is score-informed source separation of choral mu
 * `analysis_wave-u-net_score_informed.py`: analyses for chapter 6 (Score-Informed Wave-U-Net).
 * `sdr_analysis.py`: analyses for section 6.3.8 (Limitations of SDR).
 * `utils.py`: shared utilities.
+
+The following repositories were also created as part of this thesis:
+* [Dataset of synthesized Bach chorales](https://github.com/matangover/synthesize-chorales)
+* [Score-informed NMF](https://github.com/matangover/score-informed-nmf)
+* [Score-informed Wave-U-Net](https://github.com/matangover/thesis-results-analysis)
