@@ -13,4 +13,4 @@ The topic of my Master's thesis is score-informed source separation of choral mu
 The following repositories were also created as part of this thesis:
 * [Dataset of synthesized Bach chorales](https://github.com/matangover/synthesize-chorales)
 * [Score-informed NMF](https://github.com/matangover/score-informed-nmf)
-* [Score-informed Wave-U-Net](https://github.com/matangover/thesis-results-analysis)
+* [Score-informed Wave-U-Net](https://github.com/matangover/score-informed-Wave-U-Net)
